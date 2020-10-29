@@ -10,6 +10,9 @@ This section describes the settings dialog and each setting in the dialog. All t
    :maxdepth: 2
    
    Events
+   Engine
    Exceptions
+   Disam
    GUI
+   Misc
    others
